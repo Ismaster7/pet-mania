@@ -55,6 +55,8 @@
 .home-page{
     background-image: url(./images/mais-de-95-dos-brasileiros-consideram-a-saude-do-pet-tao-importante-quanto-a-da-familia.jpg);
     background-size: cover;
+    background-blend-mode:multiply;
+    background-color: #988659;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -93,6 +95,18 @@
 }
 .central-box h2{
     text-align: center;
+    background-blend-mode: color-burn;
+    background-color:#DAF95C;
+    padding: 1rem;
+    border-radius: 5px;
+}
+.central-box h1{
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3rem;
+    background-clip: text;
+    background-image:url('./images/mais-de-95-dos-brasileiros-consideram-a-saude-do-pet-tao-importante-quanto-a-da-familia.jpg') ;
 }
 
 .botao{

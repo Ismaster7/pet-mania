@@ -16,10 +16,13 @@
     margin:auto;
     
 }
+.config-color-black{
+    color: var(--color-white);
+}
 
 .config-color-white{
-    color: var(--color-white);
-
+    color: var(--color-black);
+    
 }
 .navigator{
     background-color: rgba(0   , 0, 0, 0.5);
@@ -54,6 +57,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .usuario{
@@ -99,4 +103,24 @@
     border-radius: 10px;
 
 
+}
+
+.porque-adotar{
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+}
+.porque-adotar > h2{
+    min-width: 50%;
+   text-align: center;
+    
+}
+
+.porque-adotar ol{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 4rem;
+    
 }

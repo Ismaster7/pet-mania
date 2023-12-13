@@ -123,11 +123,13 @@
     margin-top: 1rem;
     display: flex;
     align-items: center;
+
 }
 .porque-adotar > h2{
     min-width: 50%;
-   text-align: center;
-    
+    min-height: 50%;
+   text-align: center;  
+
 }
 
 .porque-adotar ol{

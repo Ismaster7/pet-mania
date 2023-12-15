@@ -1,10 +1,11 @@
+@import url(./global.css);
 *{
     margin:0;
     padding: 0;
     box-sizing: border-box;
     list-style-type: none;
     text-decoration: none;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: Montserrat;
 }
 :root{
     --color-white: #feeffe;
@@ -35,7 +36,7 @@
     justify-content: space-between;
     gap: 1rem;
     font-size: 1rem;
-
+    
 }
 .navigator, .navigator ul li:hover {
   font-size: 1.5rem;
@@ -99,7 +100,7 @@
     background-color:#DAF95C;
     padding: 1rem;
     border-radius: 5px;
-
+    font:  1.5rem/2 paozao, sans-serif;  
 
 }
 

@@ -80,7 +80,7 @@
 
 .central-box{
     margin-top: 5rem;
-    background-color: var(--color-white);
+   /* background-color: var(--color-white);*/
     width: 30rem;
     height: 20rem;
     border-radius: 15px;
@@ -99,14 +99,20 @@
     background-color:#DAF95C;
     padding: 1rem;
     border-radius: 5px;
+
+
 }
-.central-box h1{
-    -webkit-background-clip: text;
-    color: transparent;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 3rem;
+
+/*    -webkit-background-clip: text;
     background-clip: text;
     background-image:url('./images/mais-de-95-dos-brasileiros-consideram-a-saude-do-pet-tao-importante-quanto-a-da-familia.jpg') ;
+    color: transparent;*/
+.central-box h1{
+    
+   
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3rem;
+    color: var(--color-white);
 }
 
 .botao{
@@ -139,4 +145,32 @@
     justify-content: center;
     gap: 4rem;
     
+}
+
+.onde-adotar{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+;
+}
+
+.onde-adotar > h2{
+text-align: center;
+min-width: 50%;
+}
+
+.onde-adotar ul li{
+    border-bottom: 2px solid var(--color-black);
+    border-radius: 5px;
+    padding-bottom: 1rem;
+    
+}
+
+.porque-adotar ol li{
+    border-bottom: 2px solid var(--color-black);
+    border-radius: 5px;
+    border-collapse: collapse;
+    padding-bottom: 1rem;
+
 }

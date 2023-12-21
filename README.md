@@ -5,9 +5,9 @@ entregar ele de graça para alguma ong ou petshop que tenha o intuito de auxilia
 adoção de animais.
 ## Sites de adoçãp para você conhecer: 
 
-[Site 1](http://www.adoteumgatinho.org.br/como-adotar-um-gatinho0)    
-[Site 2](http://www.adoteumfocinho.com.br/v1/index.asp?p=8&t=para-adocao#.W2dT7ihKjIU)  
-[Site 3](http://www.clubedosviralatas.org.br/adote-a-alegria)  
+[Site 1](http://www.adoteumgatinho.org.br/como-adotar-um-gatinho0).
+[Site 2](http://www.adoteumfocinho.com.br/v1/index.asp?p=8&t=para-adocao#.W2dT7ihKjIU).  
+[Site 3](http://www.clubedosviralatas.org.br/adote-a-alegria).
 
 * Se você conhecer outros sites de confiança, lhe convido a fazer uma issue com o endereço para que eu adicione.
 

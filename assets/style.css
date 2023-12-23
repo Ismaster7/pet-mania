@@ -12,6 +12,7 @@
 }
 .config-color-black{
     color: var(--color-white);
+    background-color: #132132;
 }
 
 .config-color-white{
@@ -169,4 +170,22 @@ min-width: 50%;
     border-collapse: collapse;
     padding-bottom: 1rem;
 
+}
+
+/* Página 3 - Quais pets temos para adoção*/
+
+.title-wich-pet{
+
+    text-shadow: 4px 4px 4px red;
+
+}
+
+
+.imagem-2{
+    background: url("https://www.doggies.com/blog/wp-content/uploads/2017/10/pet-montage-1024x1024.jpg") fixed padding-box no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5rem;
 }
